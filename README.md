@@ -5,4 +5,4 @@ During my first three years of undergraduate study (as I'm currently a junior), 
 
 
 
-Finally, I would like to express my gratitude for your visit to this repository. Also, this repository is being updated gradually. I will upload new files to you one by one as they are available.If you find anything inappropriate or incorrect, please feel free to contact me!
+Finally, I would like to express my gratitude for your visit to this repository. Also, this repository is being updated gradually. I will upload new files to you one by one as they are available. If you find anything inappropriate or incorrect, please feel free to contact me!
